@@ -1,6 +1,9 @@
 # IBM Applied Data Science Capstone
 This repository contains materials used for the IBM Applied Data Science capstone project. 
 
+## Presentation
+- [Capstone Presentation](IBM_Capstone_Presentation.pdf)
+
 ## Data Collection
 - [Data Collection with SpaceX API](jupyter-labs-spacex-data-collection-api.ipynb)
 - [Data Collection using Web Scraping (top)](jupyter-labs-webscraping.ipynb)
